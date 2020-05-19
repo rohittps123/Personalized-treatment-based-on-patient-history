@@ -10,3 +10,30 @@ A Web portal to predict whether the person is diabetic, prediabetic or healthy a
 ### Step 7: After login the patient needs to fill up the Analysis form and then the prediction will take place
 ### Step 8: The patient can check out the other features of the system like Check History, Visualization of input and output parameters, Customized Diet plan and Exercise plan, Book Appointment with Doctor 
 ### I have also uploaded the Technical Paper with the name "B21 Updated Paper". It is a paper I have published in my college.
+### Home page of System
+![](screenshots/pic1.JPG)
+### Login Screen
+![](screenshots/pic2.JPG)
+### Analysis Form
+![](screenshots/pic3.JPG)
+### Actual Prediction
+![](screenshots/pic4.JPG)
+### Analysis History
+![](screenshots/pic5.JPG)
+### Appointment History
+![](screenshots/pic6.JPG)
+### Booking Appointment
+![](screenshots/pic7.JPG)
+### Diet Plan
+![](screenshots/pic8.JPG)
+### Exercise Plan
+![](screenshots/pic9.JPG)
+### Doctor Login
+![](screenshots/pic10.JPG)
+### Admin Login
+![](screenshots/pic11.JPG)
+### Visualization
+![](screenshots/pic12.JPG)
+
+
+
